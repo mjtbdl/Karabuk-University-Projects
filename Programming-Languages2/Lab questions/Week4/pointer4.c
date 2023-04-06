@@ -11,4 +11,4 @@ int main(){
     pntr = &y;
     z = *pntr;
     printf("z = %d", z);
-}
+}// This program assigns integer addresses to a pointer, then prints their values twice.

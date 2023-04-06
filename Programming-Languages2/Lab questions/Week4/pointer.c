@@ -11,4 +11,4 @@ int main(){
 
     printf("value of i is %d \n", i);
     printf("value of iptr is %d \n", *iptr);
-}// example of pointer usage
+}//Program assigns integer value, prints integer and pointer values.

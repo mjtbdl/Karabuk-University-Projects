@@ -7,4 +7,4 @@ int main(){
     k = *ptr;
 
     printf("value of k is %d \n", k);
-}
+} //Program assigns pointer, prints integer value. 
